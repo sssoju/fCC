@@ -21,7 +21,7 @@ Projects required by fCC for each respective certification are italicized.
 ## Javascript Algorithms and Data Structures
 ### Projects
 
-  1. Role Playing Game
+  1. Role Playing Game - "Dragon Repeller"
   2. Calorie Counter
   3. Music Player
   4. Date Formatter
