@@ -3,7 +3,7 @@
 ## Summary
 This respository is for every project I have completed on freeCodeCamp.
 It is structured by certification/course folder and the projects for each course are contained within.
-Projects required by fCC for each respective certification are italicized. 
+Projects required by fCC for each respective certification are italicized. Projects that have been completed are marked with "✅".
 
 ## Table of Contents
 * Responsive Web Design Certification
@@ -21,10 +21,10 @@ Projects required by fCC for each respective certification are italicized.
 ## Javascript Algorithms and Data Structures
 ### Projects
 
-  1. Role Playing Game - "Dragon Repeller"
-  2. Calorie Counter
-  3. Music Player
-  4. Date Formatter
+  1. Role Playing Game - "Dragon Repeller" ✅
+  2. Calorie Counter ✅
+  3. Music Player ✅
+  4. Date Formatter ✅
   5. *Palindrome Checker*
   6. Football Team Cards
   7. Todo App
